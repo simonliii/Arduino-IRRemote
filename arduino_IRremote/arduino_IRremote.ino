@@ -1,5 +1,4 @@
 #include <IRremote.h>
-//hi from mac
 
 const int buttonPin = 8;
 const int RECV_PIN = 7;
